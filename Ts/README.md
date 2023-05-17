@@ -1,2 +1,2 @@
-Pasta destinada para exercicios de Typescript
+# Pasta destinada para exercicios de Typescript
 
