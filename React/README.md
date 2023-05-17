@@ -1,2 +1,2 @@
-Pasta destinada para exercicios de React
+# Pasta destinada para exercicios de React
 

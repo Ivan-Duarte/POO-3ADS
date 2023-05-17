@@ -1,1 +1,1 @@
-Pasta destinada para exercicios de JavaScript
+# Pasta destinada para exercicios de JavaScript
