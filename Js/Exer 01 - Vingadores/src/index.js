@@ -9,6 +9,7 @@ const personagem = {
     descricao: function(){
         return "Nome de Personagem: " + this.nome +  "\n"
         + "Codinome do Personagem: " + this.codinome + "\n"
-        + "Codinome do Personagem: " + this.codinome + "\n"
+        + "Arma Principal: " + this.armaPrincipal + "\n"
+        + "Arma Secundaria: " + this.armaSecundaria + "\n"
     }
 }
