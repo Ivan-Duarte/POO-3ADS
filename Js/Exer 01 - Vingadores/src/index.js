@@ -11,5 +11,8 @@ const personagem = {
         + "Codinome do Personagem: " + this.codinome + "\n"
         + "Arma Principal: " + this.armaPrincipal + "\n"
         + "Arma Secundaria: " + this.armaSecundaria + "\n"
+        + "Velocidade: " + this.velocidade + "n\"
+        + "Forca: " + this.forca + "\n"
+        + "Resistencia: " + this.resistencia + "n\"
     }
 }
