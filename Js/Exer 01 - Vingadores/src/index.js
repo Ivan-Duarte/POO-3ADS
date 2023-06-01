@@ -6,5 +6,9 @@ const personagem = {
     velocidade: 60, // considerando 0 de 100
     forca: 80, // considerando 0 de 100
     resistencia: 90, // considerando 0 de 100
-    
+    descricao: function(){
+        return "Nome de Personagem: " + this.nome +  "\n"
+        + "Codinome do Personagem: " + this.codinome + "\n"
+        + "Codinome do Personagem: " + this.codinome + "\n"
+    }
 }
